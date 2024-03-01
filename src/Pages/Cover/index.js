@@ -18,7 +18,7 @@ export default function Cover({ transformUp, onClick }) {
                     <div className='absolute top-1/4 left-0 right-0'>
                         <div className='text-center'>
                             <div className='flex justify-center mb-8'>
-                                <img src={hiasan1} alt='hiasan1' className='w-[100px]' />
+                                {/* <img src={hiasan1} alt='hiasan1' className='w-[100px]' /> */}
                             </div>
                             <div className='text-[#413327] custom-font-2 font-semibold text-5xl mb-4'>
                                 {nama_pasangan}
